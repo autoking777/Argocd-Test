@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/Abhinav-26/ArgoCD-Config-Test.git
+    repoURL: https://github.com/autoking777/Argocd-Test.git
     targetRevision: HEAD
     path: yamls
   destination:
