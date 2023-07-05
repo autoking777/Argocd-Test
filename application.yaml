@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/autoking777/Argocd-Test.git
-    targetRevision: HEAD
+    targetRevision: dev
     path: yamls
   destination:
     server: https://kubernetes.default.svc
